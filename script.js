@@ -242,7 +242,6 @@ function stop() {
    }
    stopped = true;
 }
-
 function resizeGame() {
     var gameArea = document.getElementById('gameArea');
     var widthToHeight = 4 / 3;
